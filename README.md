@@ -10,11 +10,9 @@
 
 <br>
 
-## The world does not come with a brief.
+Cyber Agency is an applied intelligence and technology firm working across **intelligence, product, systems, and specialist leadership**.
 
-Cyber Agency is an applied intelligence and technology firm working with companies, private capital, and institutions on problems that cross disciplines.
-
-We connect research and strategy with product development, intelligent systems, security, and specialist leadership. The engagement can begin with a question, a product, an existing system, or a problem that has never fit neatly within a single function.
+Our work connects research and strategy with technical execution for **companies, private capital, and governments**.
 
 <br>
 
@@ -22,14 +20,14 @@ We connect research and strategy with product development, intelligent systems, 
 
 | | | |
 |:--|:--|:--|
-| `01` | **Intelligence** | Strategic research, market and competitive intelligence, foresight, diligence, and capital intelligence. |
-| `02` | **Product** | Product and venture strategy, software and AI-native product development, design, and modernization. |
-| `03` | **Systems** | Private AI, agents, organizational knowledge systems, engineering, integration, cybersecurity, and resilience. |
-| `04` | **Leadership & Teams** | Fractional leadership, specialist teams, technical talent, and organizational capability development. |
+| `01` | **Intelligence** | Strategic research, market and competitive intelligence, capital intelligence, foresight, and diligence. |
+| `02` | **Product** | Product and venture strategy, design, software and AI product development, and modernization. |
+| `03` | **Systems** | Private AI, agents, organizational knowledge, engineering, integration, cybersecurity, and resilience. |
+| `04` | **Leadership & Teams** | Fractional executives, technical specialists, dedicated teams, talent, and capability development. |
 
 <br>
 
-### How we engage
+### Engagements
 
 **Advisory** &nbsp; / &nbsp; **Build** &nbsp; / &nbsp; **Embedded** &nbsp; / &nbsp; **Managed**
 
@@ -37,8 +35,5 @@ We connect research and strategy with product development, intelligent systems, 
 
 ---
 
-<p align="left">
-  <a href="https://cyberagency.org"><strong>cyberagency.org</strong></a>
-  &nbsp; &nbsp;
-  <a href="mailto:brad@cyberagency.org">brad@cyberagency.org</a>
-</p>
+**[cyberagency.org](https://cyberagency.org)** &nbsp; / &nbsp; **[brad@cyberagency.org](mailto:brad@cyberagency.org)**
+
