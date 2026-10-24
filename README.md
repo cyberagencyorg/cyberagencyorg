@@ -1,27 +1,44 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img src="./assets/profile-dark.svg" alt="Cyber Agency. Augmenting Human Intelligence." width="100%">
-</picture>
+<div align="center">
+  <img src="./assets/cyber-agency-banner.webp" alt="Cyber Agency. Augmenting Human Intelligence." width="100%">
+
+  <p>
+    <a href="https://cyberagency.org"><strong>WEBSITE</strong></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="mailto:brad@cyberagency.org"><strong>INQUIRIES</strong></a>
+  </p>
+</div>
 
 <br>
 
 ## The world does not come with a brief.
 
-Cyber Agency helps companies, private capital, and institutions understand complex environments, make consequential decisions, and build the products, systems, and teams those decisions require.
+Cyber Agency is an applied intelligence and technology firm working with companies, private capital, and institutions on problems that cross disciplines.
 
-We connect intelligence, technology, and execution across work that does not fit neatly within one discipline.
+We connect research and strategy with product development, intelligent systems, security, and specialist leadership. The engagement can begin with a question, a product, an existing system, or a problem that has never fit neatly within a single function.
 
 <br>
 
-|  | PRACTICE | SCOPE |
+### Practices
+
+| | | |
 |:--|:--|:--|
-| **01** | **Intelligence & Strategy** | Research, competitive and market intelligence, diligence, venture and commercial strategy. |
-| **02** | **AI, Product & Engineering** | AI agents, private AI, product development, software, infrastructure, and systems integration. |
-| **03** | **Security & Resilience** | Cybersecurity, technical hardening, web and cloud infrastructure, recovery, and resilience. |
-| **04** | **Leadership & Talent** | Fractional leadership, specialists, engineering teams, and capability development. |
+| `01` | **Intelligence** | Strategic research, market and competitive intelligence, foresight, diligence, and capital intelligence. |
+| `02` | **Product** | Product and venture strategy, software and AI-native product development, design, and modernization. |
+| `03` | **Systems** | Private AI, agents, organizational knowledge systems, engineering, integration, cybersecurity, and resilience. |
+| `04` | **Leadership & Teams** | Fractional leadership, specialist teams, technical talent, and organizational capability development. |
 
 <br>
 
-**[Website](https://cyberagency.org)** &nbsp; / &nbsp; **[Contact](mailto:brad@cyberagency.org)** &nbsp; / &nbsp; **[Venture Method](https://github.com/cyberagencyorg/venturemethod)**
+### How we engage
 
+**Advisory** &nbsp; / &nbsp; **Build** &nbsp; / &nbsp; **Embedded** &nbsp; / &nbsp; **Managed**
+
+<br>
+
+---
+
+<p align="left">
+  <a href="https://cyberagency.org"><strong>cyberagency.org</strong></a>
+  &nbsp; &nbsp;
+  <a href="mailto:brad@cyberagency.org">brad@cyberagency.org</a>
+</p>
