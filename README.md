@@ -1,33 +1,27 @@
-<div align="center">
-
-# CYBER AGENCY
-
-**Augmenting Human Intelligence.**
-
-[Website](https://cyberagency.org) &nbsp; / &nbsp; [Contact](mailto:brad@cyberagency.org)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img src="./assets/profile-dark.svg" alt="Cyber Agency. Augmenting Human Intelligence." width="100%">
+</picture>
 
 <br>
 
-Cyber Agency works across strategic intelligence, AI, engineering, cybersecurity, and organizational capability.
+## The world does not come with a brief.
 
-We investigate complex problems, develop products and systems, and carry the resulting intelligence into practical execution.
+Cyber Agency helps companies, private capital, and institutions understand complex environments, make consequential decisions, and build the products, systems, and teams those decisions require.
 
-### Capabilities
+We connect intelligence, technology, and execution across work that does not fit neatly within one discipline.
 
-**Intelligence & Strategy**  
-Research, market intelligence, diligence, commercial and venture strategy.
+<br>
 
-**AI, Product & Engineering**  
-AI systems and agents, product development, software, infrastructure and integration.
+|  | PRACTICE | SCOPE |
+|:--|:--|:--|
+| **01** | **Intelligence & Strategy** | Research, competitive and market intelligence, diligence, venture and commercial strategy. |
+| **02** | **AI, Product & Engineering** | AI agents, private AI, product development, software, infrastructure, and systems integration. |
+| **03** | **Security & Resilience** | Cybersecurity, technical hardening, web and cloud infrastructure, recovery, and resilience. |
+| **04** | **Leadership & Talent** | Fractional leadership, specialists, engineering teams, and capability development. |
 
-**Security & Resilience**  
-Cybersecurity, system hardening, web and cloud infrastructure, resilience and recovery.
+<br>
 
-**Leadership & Talent**  
-Technical and product leadership, specialist capability, training and embedded teams.
+**[Website](https://cyberagency.org)** &nbsp; / &nbsp; **[Contact](mailto:brad@cyberagency.org)** &nbsp; / &nbsp; **[Venture Method](https://github.com/cyberagencyorg/venturemethod)**
 
----
-
-<sub>[cyberagency.org](https://cyberagency.org)</sub>
