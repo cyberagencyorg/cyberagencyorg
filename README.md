@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-agency-banner.webp" alt="Cyber Agency. Augmenting Human Intelligence." width="100%">
+  <img src="./assets/cyber-agency-banner-hq.webp" alt="Cyber Agency. Augmenting Human Intelligence." width="100%">
 
   <p>
     <a href="https://cyberagency.org"><strong>WEBSITE</strong></a>
